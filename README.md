@@ -1,5 +1,5 @@
 # Codewars
-Here are all my solutions for codewars kata/exercises written in <b>Swift</b>.
+Here are almost all of my solutions for codewars kata/exercises written in <b>Swift</b>.
 
 Currently my rank is: <br>
 <img src="https://www.codewars.com/users/JakubPrus/badges/large">
